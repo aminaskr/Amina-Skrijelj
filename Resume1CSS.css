@@ -1,0 +1,33 @@
+h1,h2{
+    font-family: "Trebuchet MS","Lucida Granda",Tahoma,sans-serif;
+}
+body{
+    font-family: :Georgia, Cambria,"Times New Roman",serif;
+    font-size: 100%;
+    background-color: rgb(34,54,66);
+}
+h1{
+    font-size: 1.5rem;
+}
+
+h2{
+    font-size: 0.74rem;
+}
+p{
+    font-size: 1rem;
+    margin-top: 0rem;
+    margin-right: 0rem;
+    margin-bottom: 0.5;
+    margin-left: 0em;
+}
+header{
+    color: white;
+    background-color: #3D6271;
+    margin-top: 0em;
+    margin-right: 4em;
+    margin-bottom: 0.5em;
+    margin-left: 4em;
+}
+nav#bio{
+    background-image: url(102C25CB-B1EE-4A99-9612-B5E41B7F841D.jpg);
+}
