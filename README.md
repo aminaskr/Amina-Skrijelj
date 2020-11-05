@@ -65,7 +65,6 @@
         <hr>
         <h2 id="intership"> </h2>
         <blockquote>
-            
             <blockquote>
         <img src="496A8BE6-2F78-4812-9710-00F2523D8373.jpg" width="700px" height="200px" alt="Amina Skrijelj">
             </blockquote>
@@ -78,8 +77,7 @@
            <ul>
             <blockquote>
                 <img src="9A407784-A7F2-408E-BE76-9E1356AAB47C.jpg" width="700px" height="200px" alt="Amina Skrijelj">
-            
-                <p><li type="circle">Programming.<br></li>
+            <p><li type="circle">Programming.<br></li>
                    <li type="square">Team Player.<br></li>
                    <li type="circle">Drawing<br></li>
                    <li type="square">Good communacation skills.</li>
