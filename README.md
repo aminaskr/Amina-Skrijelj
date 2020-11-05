@@ -1,6 +1,4 @@
 # Amina-Skrijelj
-
-     
 <!DOCTYPE html>
 <html>
     <head>
@@ -35,6 +33,7 @@
             <blockquote>
             <img src="D561720E-C6CC-45FD-976D-CA7ACA237B7A.jpg" width="700px" height="200px" alt="Amina Skrijelj">
                 </blockquote>
+            <nav>
            <table>
                <tr>
                    <th>Date</th>
@@ -61,11 +60,12 @@
                    <td>High School</td>
                </tr>
             </table>
+                </nav>
          </blockquote>
-        <hr>
+              <hr>
         <h2 id="intership"> </h2>
         <blockquote>
-            <blockquote>
+              <blockquote>
         <img src="496A8BE6-2F78-4812-9710-00F2523D8373.jpg" width="700px" height="200px" alt="Amina Skrijelj">
             </blockquote>
          <p>I worked in jewerly shop as a seller from 2017-2019.<br>
@@ -77,16 +77,14 @@
            <ul>
             <blockquote>
                 <img src="9A407784-A7F2-408E-BE76-9E1356AAB47C.jpg" width="700px" height="200px" alt="Amina Skrijelj">
-            <p><li type="circle">Programming.<br></li>
+             <p><li type="circle">Programming.<br></li>
                    <li type="square">Team Player.<br></li>
                    <li type="circle">Drawing<br></li>
                    <li type="square">Good communacation skills.</li>
                 </p>
-                  
-            </blockquote>
+                 </blockquote>
         </ul>
-       
-        <hr>
+       <hr>
       <h2 id="travel"> </h2>
         <ul>
         <blockquote>
@@ -145,10 +143,7 @@
                  <img src="fb.JPG" alt="Facebook" width="50px" height="50px">
                  <li type="square"> <a href="facebook.com"><strong>FACEBOOK</strong></a></li>
                  <li type="square"> <a href="https://github.com/aminaskr/Amina-Skrijelj.git"><strong>FIRST PROJECT(HTML)</strong></a></li>
-                 
-
-            </blockquote>
+                 </blockquote>
         </ul>
-        
-     </body>
+       </body>
 </html>
