@@ -1,5 +1,4 @@
-# Amina-Skrijelj
-<!DOCTYPE html>
+
 <html>
     <head>
         <title>My Resume Project</title>
@@ -145,5 +144,4 @@
                  <li type="square"> <a href="https://github.com/aminaskr/Amina-Skrijelj.git"><strong>FIRST PROJECT(HTML)</strong></a></li>
                  </blockquote>
         </ul>
-       </body>
-</html>
+  
