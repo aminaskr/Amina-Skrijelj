@@ -1,7 +1,6 @@
 
 <html>
     <head>
-        <title>My Resume Project</title>
         <link rel="stylesheet" type="text/css" href="Resume1CSS.css">
     </head>
     <body>
