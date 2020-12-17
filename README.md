@@ -1,13 +1,8 @@
-
 <!DOCTYPE html>
 <html>
     <head>
         <title>My Resume Project</title>
-     <script>
-         function displayDate(){
-             document.getElementById("showDate").innerHTML=Date();
-         }
-        </script>
+        <script src="js/resume1.js"></script>
         <style type="text/css">
         body{
               max-width: 940px;
@@ -18,32 +13,28 @@
             background-color: #efef3067;
         }
        
-        
-        ul{width: 570px; padding:  10px; margin: 0px auto 0px auto;
+   ul{width: 570px; padding:  10px; margin: 0px auto 0px auto;
         border-top: 2px solid #000; border-bottom: 1px solid #000; text-align: center;}
         
-        a{color: #000000; text-transform: uppercase; text-decoration: none; padding: 6px 10px 5px 10px;}
+   a{color: #000000; text-transform: uppercase; text-decoration: none; padding: 6px 10px 5px 10px;}
         a:hover,a.on{color: #cc3333; background-color: #ffffff}
          
-        p{text-align: center;width: 600px;margin: 20px auto 20px auto; font-weight: normal;}
+   p{text-align: center;width: 600px;margin: 20px auto 20px auto; font-weight: normal;}
         
-        table{text-align: center;width: 600px;margin: 20px auto 20px auto; font-weight: normal;}
-        
-        img{display: block;margin-left: auto;margin-right: auto;width: 90%;}
+   table{text-align: center;width: 600px;margin: 20px auto 20px auto; font-weight: normal;}
+             img{display: block;margin-left: auto;margin-right: auto;width: 90%;}
     
  
            
-        </style>
+  </style>
     </head>
     <body>
-        <button type="button" onclik="displayDate()">Time and Date</button>
-            <p id="showDate"></p>
+        <div class="main-container"></div>
+        <h3>REAL TIME CLOCK</h3>
         <header>
             <blockquote>
             <img src="102C25CB-B1EE-4A99-9612-B5E41B7F841D.jpg" width="1000px" height="240px" alt="Amina Skrijelj">
-              </blockquote>  
-           
-           
+              </blockquote>      
         <ul>
             <div id="menu">
 			<li><a href="#bio">BIO</a></li>
@@ -52,11 +43,10 @@
             <li><a href="#skills">SKILSS</a></li>
             <li><a href="#travel">TRAVEL</a></li>
             <li><a href="#adress">ADRESS</a></li>
-            <li><a href="#">CONTACT ME</a></li>
+            <li><a href="#contact">CONTACT ME</a></li>
                 </div>
 		</ul>
-               
-         </header>
+                </header>
         <hr>
         <h2 id="home"> </h2>
         <blockquote>
@@ -98,7 +88,7 @@
            
          
             
-        <hr>
+ <hr>
         <blockquote>
         <img src="496A8BE6-2F78-4812-9710-00F2523D8373.jpg" width="700px" height="200px" alt="Amina Skrijelj">
             </blockquote>
@@ -107,10 +97,10 @@
                Also I work  for company as a accountatn for 1 year now.<br>
                I am looking for some programming experience in some prestige companies.</p>
         
-        <hr>
+<hr>
         <h2 id="skills"> </h2>
            
-            <blockquote>
+  <blockquote>
                 <img src="9A407784-A7F2-408E-BE76-9E1356AAB47C.jpg" width="700px" height="200px" alt="Amina Skrijelj">
             <ul>
                 <p><li type="circle">Programming.<br></li>
@@ -120,10 +110,10 @@
                 </p>
                   
 
-        </ul>
+   </ul>
                  </blockquote>
        
-        <hr>
+  <hr>
         <img src="62228293-4F76-4C18-A4E6-ED38D63B961E.jpg" width="700px" height="200px" alt="Amina Skrijelj">
       <h2 id="travel"> </h2>
             <ul>
@@ -184,8 +174,8 @@
                  <li type="square"> <a href="https://github.com/aminaskr/Amina-Skrijelj.git"><strong>FIRST PROJECT(HTML)</strong></a></li>
                  
 
-            </blockquote>
+   </blockquote>
         </ul>
         
-     </body>
+   </body>
 </html>
